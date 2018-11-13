@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+@copyright = DevportViewTool::Renderer.copyright "Jordan Hudgens", "All rights reserved"
+```
 
 ## Development
 
